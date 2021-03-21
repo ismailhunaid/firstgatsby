@@ -1,0 +1,16 @@
+ .link {
+    color:gray;
+    font:200
+    
+}
+.header{
+    color:brown
+}
+.active-link{
+    color:red;
+
+
+}
+.link:hover {
+    color:rosybrown;
+}
